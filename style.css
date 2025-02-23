@@ -1,6 +1,6 @@
 body {
     font-family: "Nunito", serif;
-    background-color: rgb(129, 129, 129);
+    background-image: url(assets/thing.png);
 }
 
 .center {
@@ -51,4 +51,17 @@ body {
     height: 100px;
     width: 100px;
     border-radius: 25px;
+}
+
+.titletangle {
+    text-align: center;
+    height: auto;
+    width: 1000px;
+    background-color: #555555;
+    border-radius: 25px;
+    margin-left: auto; 
+    margin-right: auto;  
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 25px;
 }
